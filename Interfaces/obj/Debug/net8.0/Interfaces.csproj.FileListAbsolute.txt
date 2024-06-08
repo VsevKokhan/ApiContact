@@ -1,0 +1,15 @@
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\bin\Debug\net8.0\Domain.dll
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\bin\Debug\net8.0\Domain.pdb
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\Interfaces.csproj.AssemblyReference.cache
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\Interfaces.csproj.Up2Date
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Users\sevak\source\repos\VsevKokhan\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll
